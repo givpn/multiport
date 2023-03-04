@@ -10,7 +10,7 @@
 
 </p>
 
-## Update & Upgrade First Your VPS for Debian 9 & 10
+## Update & Upgrade First Your VPS for Debian 9 STRETCH & 10 BUSTER
 
   ```html
   apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
