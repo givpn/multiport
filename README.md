@@ -10,14 +10,14 @@
 
 </p>
 
-## Update & Upgrade First Your VPS for Debian 10 & 11
+## Update & Upgrade First Your VPS for Debian 9 & 10
 
   ```html
   apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 
   ```
 
-## Update & Upgrade First Your VPS for Ubuntu 18.04 & 20.04
+## Update & Upgrade First Your VPS for Ubuntu 18 LTS & 20 LTS
 
   ```html
   apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && sleep 2 && reboot
